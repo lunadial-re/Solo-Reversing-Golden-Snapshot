@@ -23,5 +23,5 @@ Student's Bizarre Adventures in RE learning
 3) Isolated VM
 ### Combat missions
 #### In the plan \ next steps
-1) Classic C\C++ vulnerabilities: study, description, implenetation, exploitation
+1) Classic C\C++ vulnerabilities: study, description, implementation, exploitation
 2) Analyze some kind of computer virus
