@@ -8,6 +8,7 @@ Student's Bizarre Adventures in RE learning
 2) "Practical Reverse Engineering", Bruce Dang
 3) "Reverse Engineering для начинающих", Д. Юричев
 4) "Reversing: Secrets of Reverse Engineering", Eldad Eilam
+5) Structure of Portable Executable, Native Executable formats
 ### Practice
 #### In process
 1) Crackmes.one
