@@ -21,4 +21,4 @@ maaaaaaaybeeee free part "Lets Defend" RE/MA/VR courses
 3) Isolated VM
 ### Combat missions
 1) Classic C\C++ vulnerabilities: study, description, implementation, exploitation
-2) Analyze some kind of computer virus
+2) Analyze some kind of malware
