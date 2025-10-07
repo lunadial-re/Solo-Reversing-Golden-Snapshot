@@ -4,7 +4,7 @@ Student's Bizarre Adventures in RE learning
 ### Certifications
 Some of Open Security Training 2 (OST2) courses that will be useful for RE.
 Or, actually, even course i want to learn. That can't be useless
-\n maaaaaaaybeeee free part "Lets Defend" RE/MA/VR courses
+maaaaaaaybeeee free part "Lets Defend" RE/MA/VR courses
 ### Theory
 1) MASM Intel x86-64/ AMD64
 2) "Practical Reverse Engineering", Bruce Dang
