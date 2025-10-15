@@ -1,4 +1,4 @@
 # Intel x86 Opcode Table and Reference:
 https://shell-storm.org/x86doc/
-# IDA BAsic Usage
+# IDA Basic Usage
 https://docs.hex-rays.com/getting-started/basic-usage
