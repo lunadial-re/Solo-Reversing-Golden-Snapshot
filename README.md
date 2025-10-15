@@ -10,7 +10,7 @@ maaaaaaaybeeee free part "Lets Defend" RE/MA/VR courses
 2) "Practical Reverse Engineering", Bruce Dang
 3) "Reverse Engineering для начинающих", Д. Юричев
 4) "Reversing: Secrets of Reverse Engineering", Eldad Eilam
-5) Structure of Portable Executable, Native Executable formats
+5) Structure of Portable Executable, New Executable formats
 ### Practice
 1) Crackmes.one
 2) HackTheBox 
