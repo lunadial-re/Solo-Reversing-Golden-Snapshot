@@ -2,8 +2,4 @@
 https://shell-storm.org/x86doc/
 # IDA Basic Usage
 https://docs.hex-rays.com/getting-started/basic-usage
-# Functions required for the search
-### strcmp
-### strcpy
-### memmove
-### memcpy
+
