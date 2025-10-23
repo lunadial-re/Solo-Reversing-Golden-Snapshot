@@ -18,7 +18,8 @@ maaaaaaaybeeee free part "Lets Defend" RE/MA/VR courses
 ### Toolkit
 1) Ghidra
 2) x64dbg\x32dbg
-3) Isolated VM
+3) Angr (but need to learn closely because a litle bit not understand it, seems like ghidra\ida easier to static analysis)
+4) Isolated VM
 ### Combat missions
 1) Classic C\C++ vulnerabilities: study, description, implementation, exploitation
 2) Analyze some kind of malware
