@@ -1,6 +1,6 @@
 # Solo-Reversing-Golden-Snapshot
 Student's Bizarre Adventures in RE learning
-## Something like a study plan
+## Something like a study plan (its not fully relevant, will be re-write at December's beginning)
 ### Certifications
 Some of Open Security Training 2 (OST2) courses that will be useful for RE.
 Or, actually, even course i want to learn. That can't be useless
