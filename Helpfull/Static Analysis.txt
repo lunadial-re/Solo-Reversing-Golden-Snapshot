@@ -1,0 +1,3 @@
+https://github.com/sooshie/packerid/blob/master/userdb.txt - PACKERS SIGNATURES
+https://en.wikipedia.org/wiki/List_of_file_signatures - FILE SIGNATURES
+https://github.com/corkami/pics/blob/master/binary/README.md - FILES ANATOMY
